@@ -176,7 +176,7 @@ while not game_end:
       if win():
         display()
         print("you won!!!")
-        game_end = True
+        place_2()
       else:  
         place_2()
         display()  
