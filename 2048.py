@@ -1,7 +1,7 @@
 import random
 import copy
-game_size = int(input("what size game of 2048? "))
-win_num = int(input("enter the winning number: "))
+game_size = int(input("what size game of 2048? " or 5))
+win_num = int(input("enter the winning number: " or 2048))
 
 def power_2(win_num):
   p = 1
