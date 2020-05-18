@@ -1,6 +1,7 @@
 # 2048_game
 
 Description:
+platform: Windows
 Welcome to game 2048 
 Your goal is to achieve the winning number by moving the tiles in different directions . You have to keep moving the tiles until you win or until there are no moves left. At the beginning of the game the instructions and game board  are displayed.
 Instructions:
